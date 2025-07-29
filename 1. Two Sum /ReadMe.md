@@ -1,0 +1,1 @@
+Here I have provided two solutions for the problem TWO SUM in leetcode, i've tried to solve the problem by brute force method by figuring out how to solve it and later i tried to optimize ot by refering the discussions in the leetcode,i hope this helps you to solve the problem
